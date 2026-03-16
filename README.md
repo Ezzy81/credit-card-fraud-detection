@@ -55,6 +55,8 @@ Source : [Kaggle — Credit Card Fraud Detection](https://www.kaggle.com/dataset
 
 Le fichier `creditcard.csv` n'est pas inclus dans ce repo (trop lourd). Télécharge-le directement depuis Kaggle et place-le à la racine du projet avant de lancer le notebook.
 
+[📥 Télécharger le fichier Power BI (.pbix)]([colle-ton-lien-ici](https://colab.research.google.com/drive/14qzfpYzGZ9zpJp6XwHrDr5PSiDmWSnxh?usp=drive_link)
+
 ---
 
 ## Me contacter
